@@ -1,0 +1,17 @@
+
+{
+"meshNodes": "mfdConfig",
+
+    "id": "1",
+
+    "device_count": "6",
+
+    "mfd_dev_id_1": "1",
+    "mfd_dev_id_2": "2",
+    "mfd_dev_id_3": "3", 
+    "mfd_dev_id_4": "4",
+    "mfd_dev_id_5": "5",
+    "mfd_dev_id_6": "6",
+    "mfd_dev_id_7": "7",
+    "mfd_dev_id_8": "8"
+}

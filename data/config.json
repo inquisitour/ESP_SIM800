@@ -1,0 +1,15 @@
+{
+"meshNodes": "config",
+
+    "ssid": "Vitruvian",
+    "password": "fusionpeptide@3",
+
+    "root": "3222342507",
+
+    "id": "1",
+    
+    "mfd": "1",
+    "mcp": "0",
+    "pins": "8",
+    "delay": "2"
+  }
